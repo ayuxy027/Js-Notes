@@ -1,7 +1,6 @@
 // Module 1
 
 
-
 // // console.log('Hi')
 // const accountNumber = 98076
 // let name = "Ayush"
@@ -50,6 +49,8 @@
 
 
 // Module 4
+
+
 // Js ka chutiyapa (why TS is needed)
 
 // let number = 6;
@@ -62,3 +63,56 @@
 
 // Js is a single threaded language i.e a Javascript code runs only on a single core rather than multiple cores at a single time.
 // Ex. if we rent 20 computers on AWS only one computer will be used, leaading to wastage of 19 computers
+
+
+
+// Module 6
+
+
+// Js is an interpreted language
+
+// console.log("Hi");
+// console.log(a);
+
+
+
+// Module 7
+
+
+
+// Variables ====> 
+// let  const  var 
+
+// Datatypes ===>
+// string bigint int boolean double float
+
+// Loops =====>
+// for if else do while 
+
+
+
+// Module 8 (exercise)
+
+
+// Ex.1 Print Your Name by taking user input
+
+// var firstName = prompt("Enter First Name");
+// var lastName = prompt("Enter Last Name");
+// console.log("Hi, " + firstName + " " + lastName);
+
+// Ex.2 Greet user with respect to his/her Gender 
+
+// var gender = prompt("Enter Your Gender").toLowerCase();
+// var name = prompt("Enter your Name");
+// if (gender=="male"){
+//     console.log("Hi Sir" + name)
+// }
+// else {
+//     console.log("Hi Miss" + name)
+// }
+
+// Ex.3 Print 1-100 Numbers using for Loop
+
+// for ( let i=1; i<=100; i++) {
+//    console.log(i);
+// }
