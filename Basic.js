@@ -48,4 +48,10 @@
 // }
 
 
+
 // Module 4
+// Js ka chutiyapa (why TS is needed)
+
+// let number = 6;
+// number = "hello";
+// console.log(number)
