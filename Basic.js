@@ -55,3 +55,10 @@
 // let number = 6;
 // number = "hello";
 // console.log(number)
+
+
+
+// Module 5
+
+// Js is a single threaded language i.e a Javascript code runs only on a single core rather than multiple cores at a single time.
+// Ex. if we rent 20 computers on AWS only one computer will be used, leaading to wastage of 19 computers
