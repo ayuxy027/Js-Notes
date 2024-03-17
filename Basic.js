@@ -256,3 +256,52 @@
 
 // Functions 
 
+// function sum (a,b) 
+// // a and b are the arguments to the function here 
+// {
+//     return a + b;
+// }
+
+// Till here the function called sum() is defined and parameters and taken note of by the console
+//  but it is not executed here because it is only called till now
+
+// const ans = sum(3948509,2392391);
+// console.log(ans);
+
+// Here we can see funtion works 
+
+
+
+// Module 13
+
+
+// Callback Functions 
+ 
+// Nesting functions and calling them outside their indentations are called nested function
+
+// function sum(a, b) {
+//     return a + b;
+// }
+// function displayResult(result) {
+//     console.log( "Sum's result is : " + result );
+// }
+
+// const ans = sum(1,60);
+// console.log( ans );
+// displayResult(ans);
+
+
+// Callback Functions Example
+
+// function sum(a,b,fnTocall)
+// {
+//     const result = a + b;
+//     fnTocall(result);
+// }
+// function displayResult(result) 
+//  {
+//          console.log( "Sum's result is : " + result );
+//  }
+//  const ans = sum(1,2,displayResult);
+
+//  When we pass function as argument this is known as callback functions
