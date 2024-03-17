@@ -185,3 +185,30 @@
 //     }
 //  }
 // console.log("The biggest number in the array is: " + max);
+
+
+// Module 11
+
+
+// Objects 
+
+// Arrays looks like
+// const array = [1,2,3,4,5,6,7,8,9,10]
+
+
+// Object Looks Like
+
+// const User1 =  {
+//     firstName: 'Ayush',
+//     age : 26,
+//     userAddress: 'Varanasi',
+// }
+
+// we can access the data by 
+
+// console.log(User1['firstName'])
+// console.log(User1['age']) 
+// console.log(User1['userAddress'])
+
+
+// Module 12
