@@ -187,7 +187,9 @@
 // console.log("The biggest number in the array is: " + max);
 
 
+
 // Module 11
+
 
 
 // Objects 
@@ -210,5 +212,47 @@
 // console.log(User1['age']) 
 // console.log(User1['userAddress'])
 
+// We can also create an object of arrays using this syntax 
+
+// const allUsers = [
+//     {
+//     Name: 'John',
+//     number: 89990980821013,
+//     Address:'Pune',
+//     gender : 'male',
+// },
+// {
+//     Name : 'Jhonny',
+//     Address : 'NewZealand',
+//     number : 4873248093209,
+//     gender : 'male',
+// },
+// {
+//     Name : 'Angela',
+//     Address : 'Britain',
+//     number : 4873248875239,
+//     gender : 'female',
+// }
+// ]
+
+// This is helpful because we created only a single object named allUsers and we have all details under one umbrella
+
+// Lets Simply this by showing the use case 
+
+// for(let i = 0; i <allUsers.length; i++) {
+//     if(allUsers[i]['gender']=='female'){
+//         console.log('Your Details are as follows :  ' + allUsers[i]['Name'] + ' ' + allUsers[i]['Address'] + ' ' + allUsers[i]['number'] + ' ' + allUsers[i]['gender']
+//         );
+//     }
+// }
+
+
+// we can further extend the nesting by adding indentation in each object's subclasses
+
+
 
 // Module 12
+
+
+// Functions 
+
