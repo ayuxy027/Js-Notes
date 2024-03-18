@@ -51,6 +51,7 @@
 // Module 4
 
 
+
 // Js ka chutiyapa (why TS is needed)
 
 // let number = 6;
@@ -59,14 +60,18 @@
 
 
 
+
 // Module 5
+
 
 
 // Js is a single threaded language i.e a Javascript code runs only on a single core rather than multiple cores at a single time.
 // Ex. if we rent 20 computers on AWS only one computer will be used, leaading to wastage of 19 computers
 
 
+
 // Module 6
+
 
 
 // Js is an interpreted language
@@ -79,7 +84,9 @@
 // console.log(a);
 
 
+
 // Module 7
+
 
 
 // Variables ====> 
@@ -92,7 +99,9 @@
 // for if else do while 
 
 
+
 // Module 8 (exercises)
+
 
 
 // Ex.1 Print Your Name by taking user input
@@ -134,6 +143,8 @@
 // Module 9 
 
 
+
+
 // Arrays 
 
 
@@ -156,6 +167,7 @@
 
 
 // Module 10 (Exercises)
+
 
 
 // Ex.1 Print only the even numbers of the array 
@@ -254,6 +266,7 @@
 // Module 12
 
 
+
 // Functions 
 
 // function sum (a,b) 
@@ -272,7 +285,10 @@
 
 
 
+
 // Module 13
+
+
 
 
 // Callback Functions 
@@ -304,4 +320,25 @@
 //  }
 //  const ans = sum(1,2,displayResult);
 
-//  When we pass function as argument this is known as callback functions
+//  When we pass function as argument this is known as callback functions 
+
+// another example of a callback function
+
+// setTimeout function 
+
+// function greet() {
+//     console.log("Hello world!");
+// }
+// setTimeout(greet,1*1000);
+
+// 1*1000 is equivalent to one second 
+
+
+// similarly is setInterval function
+
+
+//  function greet() {
+//          console.log("Hello world!");
+//      }
+//      setInterval(greet,1*1000);
+
