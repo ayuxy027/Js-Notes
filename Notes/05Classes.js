@@ -34,6 +34,25 @@
 // To add more we can add more paramenters in Construct function
 
 
+// another example 
+
+// class Animals {
+//   constructor(name, legs, sound, breed) {
+//       this.name = name;
+//       this.legs = legs;
+//       this.sound = sound;
+//       this.breed = breed;
+//   }
+//   makeSound() { // Changed the method name to makeSound
+//       console.log("You Speak " + this.sound);
+//   }
+// }
+
+// let dog = new Animals('doggie', 4, "bhow bhow", "German Shepherd"); // Corrected the instantiation
+// dog.makeSound(); // Changed the method call to makeSound
+
+
+
 
 // Date Class 
 
