@@ -3,7 +3,7 @@
 // this describes the arguments to the template 
 
 
-// ex-- 
+// ex --->
 
 
 // class Animals {
@@ -34,7 +34,7 @@
 // To add more we can add more paramenters in Construct function
 
 
-// another example 
+// another ex --->
 
 // class Animals {
 //   constructor(name, legs, sound, breed) {
