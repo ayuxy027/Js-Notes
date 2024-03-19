@@ -55,5 +55,3 @@
 // // Hi there from async.txt file
 
 // why this happened is because fs is also an async function 
-
-
