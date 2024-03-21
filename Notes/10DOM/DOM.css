@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right, #80CED7, #F9D89C, #F76D57);
+}
+h1{
+    font-size: 30px;
+    color: #25174f;
+    position: absolute; 
+    top: 45%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 200px; 
+    height: 100px; 
+    white-space: nowrap; 
+ }
