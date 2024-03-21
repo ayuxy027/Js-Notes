@@ -12,3 +12,6 @@ h1{
     height: 100px; 
     white-space: nowrap; 
  }
+ h1:hover{
+    cursor: pointer;
+ }
