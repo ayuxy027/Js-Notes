@@ -7,5 +7,11 @@
 button{
     padding: 10px 30px;
     margin-top: 20px;
-    margin-left: 40px;
+    margin-left: 88px;
+    background-color: cadetblue;
+    border-radius: 50px;
+}
+#div{
+    position: absolute;
+    left: 38%;
 }

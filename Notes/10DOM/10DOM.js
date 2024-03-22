@@ -57,4 +57,4 @@
 //     )
 
 
-//document.getElementById() and document.getElementByClass()
+//document.getElementById() and document.getElementByClass() are equivalent to document.querySelector()
