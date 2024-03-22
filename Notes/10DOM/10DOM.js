@@ -37,3 +37,24 @@
 //     a.innerHTML = "What Up?";
 //     a.style.color = "Magenta";
 // });
+
+
+// Adding Multiple Events 
+
+
+// USE document.querySelectorAll() to use multiple HTML tags at once 
+// Then use xyz.forEach(function(e){
+//     console.log("target");
+// })
+
+// ex -->
+
+// var a  = document.querySelectorAll("h1");
+// a.forEach(function(e)
+// {
+//   console.log(e);
+// }
+//     )
+
+
+//document.getElementById() and document.getElementByClass()
