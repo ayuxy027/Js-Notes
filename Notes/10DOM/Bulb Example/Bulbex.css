@@ -1,0 +1,17 @@
+#bulb {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: solid black 2px;
+}
+button{
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-left: 88px;
+    background-color: cadetblue;
+    border-radius: 50px;
+}
+#div{
+    position: absolute;
+    left: 38%;
+}
