@@ -20,19 +20,19 @@
 // Promises have 3 types of outputs --> pending resolved and rejected
 
 
-const d = new Promise(function (resolve, reject)
- {
-    setTimeout(function ()
-    {
-        resolve("Hi there")
-    } ,3000 )
- }
-);
-function callback()
-{
-    console.log(d);
-}
-d.then(callback)
+// const d = new Promise(function (resolve, reject)
+//  {
+//     setTimeout(function ()
+//     {
+//         resolve("Hi there")
+//     } ,3000 )
+//  }
+// );
+// function callback()
+// {
+//     console.log(d);
+// }
+// d.then(callback)
 
 // We can further get rid of .then and callback methods using 
 // Async and Await Syntax in promises
