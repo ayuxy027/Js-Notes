@@ -1,0 +1,23 @@
+ECMAScript is the scripting language which provides specification for JavaScript
+
+It tells the syntax and standard of JavaScript
+
+Helpful for New libraries, Compilers and Beginners to get familiar with the syntax.Beginners
+
+In short it is the set of rules that should be used while implementing JavaScript
+
+Latest is the ES6 Syntax Version 
+
+imp - JavaScript DOM and Async  nature is beyond the scope of ECMAScript which is crucial for Web Development 
+but not defined by the ES6 
+
+2 Important compilers for JS are V8 and SpiderMonkey
+
+Node uses V8
+
+Node made the Backend possible via JS, V8 was embedded in Js and added some backend stuff and created NodeJS
+
+NodeJs has a competitor named Bun
+
+Bun is writted in Zig language and is very Fast
+
