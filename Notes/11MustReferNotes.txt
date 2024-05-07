@@ -21,3 +21,5 @@ NodeJs has a competitor named Bun
 
 Bun is writted in Zig language and is very Fast
 
+**adding more points and features on JavaScript **
+
