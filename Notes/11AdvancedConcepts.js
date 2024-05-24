@@ -27,3 +27,11 @@
 // const myNum = array.map((num)=> num*10).map((num)=> num+1)
 
 // console.log(myNum)
+
+// Example 2  
+
+// const array = [1,2,3,4,5,6,7,8,9,10];
+
+// const myNumber = array.map((num)=> num*10).map((num)=> num+2).filter((num)=> num>40)
+
+// console.log(myNumber)
